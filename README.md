@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hello amd welcome. This is my github.
